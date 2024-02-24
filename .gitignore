@@ -24,4 +24,6 @@ yarn-error.log*
 
 .idea
 sept-2023-control-project-ts.iml
+
+
 package-lock.json
