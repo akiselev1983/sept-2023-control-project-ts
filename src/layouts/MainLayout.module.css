@@ -1,0 +1,18 @@
+.MainLayout{
+    margin: 0;
+    align-content: center;
+}
+
+.block_main{
+    width: 75vw;
+    margin: auto;
+    padding-top: 1%;
+}
+/*[data-theme="light"] {*/
+/*    --theme-color: #efefef;*/
+/*    --primary-color: #000e29;*/
+/*}*/
+/*[data-theme="dark"] {*/
+/*    --theme-color: #000e29;*/
+/*    --primary-color: #efefef;*/
+/*}*/

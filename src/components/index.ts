@@ -1,0 +1,7 @@
+export * from './MoviesContainer'
+export * from './PosterView'
+export * from './HeaderContainer'
+export  * from './GenresContainer'
+export * from './HeaderContainer/Switch'
+export * from './HeaderContainer/Search'
+export * from './UserInfo'

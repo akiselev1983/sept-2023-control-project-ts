@@ -1,0 +1,28 @@
+.movies_list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5em;
+}
+.block_button{
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+}
+.block_button button{
+    height: 30px;
+    width: 80px;
+    text-align: center;
+}
+.page{
+    height: 40px;
+    width: 40px;
+    margin: 0 40px;
+    font-size: 30px;
+    text-align: center;
+}
+.title{
+    text-align: center;
+    font-size: 30px;
+}
